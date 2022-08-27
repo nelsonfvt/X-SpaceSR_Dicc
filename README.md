@@ -5,14 +5,14 @@ MATLAB code for spatial Super Resolution in DWI
  
  Into the base_code folder there are main files:
  
- -Principal.m
+ - Principal.m
  
- -finalmasbordes.m
+ - finalmasbordes.m
  
- -CodigoFinalTodo.m
+ - CodigoFinalTodo.m
 
 Additionally some libraries are required:
 
--Nifty and Analize for MATLAB https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image
+- [Nifty and Analize for MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
 
--spams-matlab-v2.6 http://thoth.inrialpes.fr/people/mairal/spams/downloads.html
+- [spams-matlab-v2.6](http://thoth.inrialpes.fr/people/mairal/spams/downloads.html)
