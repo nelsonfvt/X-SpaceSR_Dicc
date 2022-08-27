@@ -11,7 +11,7 @@ MATLAB code for spatial Super Resolution in DWI
  
  - CodigoFinalTodo.m
 
-Additionally some libraries are required:
+Additionall libraries are required:
 
 - [Nifty and Analize for MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
 
